@@ -1,7 +1,7 @@
 {
   "name": "my-node-app",
   "version": "1.0.0",
-  "description": "A simple Node.js app for handling HTTP requests",
+  "description": "ESP32-WebSocket-LED-Control-Project",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -16,6 +16,6 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "author": "Twoje Imię",
+  "author": "Your Name",
   "license": "MIT"
 }
